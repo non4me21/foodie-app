@@ -25,6 +25,14 @@
     "extends": [
       "react-app",
       "react-app/jest"
+    ],
+    "indent": [
+      "error",
+      "tab"
+    ],
+    "react/jsx-indent": [
+      "error",
+      "tab"
     ]
   },
   "browserslist": {
